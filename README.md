@@ -4,6 +4,6 @@ A recipe application which uses a search menu to call a web api with recipes, an
 
 ## Click on the link to see it live.
 
-## 🤝 Contributing
+## Contributing
 
 This project does not allow contributions.
